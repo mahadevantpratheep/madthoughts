@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+\\HI
 int centurycal(int year)
 {
 	year=year-(year%100);
